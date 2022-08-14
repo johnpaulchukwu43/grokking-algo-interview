@@ -56,7 +56,7 @@ public class MaximumSubArrayOfSizeK {
 
         /*
         * In this approach we would go through the numbers in a sliding window manner,
-        * where at each window slide we substract the first element in the previous window slide and add the
+        * where at each window slide we subtract the first element in the previous window slide and add the
         * next element being included in the sliding window
         *  { 1, 3, 2, 6, -1, 4, 1, 8, 2 };
         * */
